@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @drmls24
-- 👀 I’m interested in Cyber Security & App dev
-- 🌱 I’m currently learning Next.JS & Kotlin
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me here 
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: Water is wet
+Things I'm into, Nmap Scripts, Kotlin based fitness app development ..mainly
+amongst other things
 
 <!---
 drmls24/drmls24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
